@@ -1,0 +1,16 @@
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.exe
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.deps.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.runtimeconfig.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.runtimeconfig.dev.json
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\ref\consolePrograming.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\bin\Debug\net5.0\consolePrograming.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.csproj.AssemblyReference.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.AssemblyInfoInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.AssemblyInfo.cs
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\ref\consolePrograming.dll
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.pdb
+C:\Users\ekrem\Documents\Codes\.NetCorePatika\consolePrograming\obj\Debug\net5.0\consolePrograming.genruntimeconfig.cache
